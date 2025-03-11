@@ -2,7 +2,7 @@
 #Project: Final Project
 #File: stock_returns.r
 #Purpose: R program to predict stock returns for a given stock symbol using various time-series and ML models
-#Author: Manoj Cheruvu
+#Author: Dileep Chinta
 #Student Id:
 #College: 
 ####################################################################################
